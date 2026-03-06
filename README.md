@@ -278,4 +278,4 @@ For support, email support@uniqvue.com or join our Slack channel.
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Ali Raza]
